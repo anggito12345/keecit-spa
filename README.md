@@ -7,7 +7,7 @@ to try it:
 just run it
 and type [url]/home/index#home
 
-how to use in file public/assets/js/app.js there any configuration 
+how to use in file public/assets/js/app.
 :)
 
 Code for fun ^^
