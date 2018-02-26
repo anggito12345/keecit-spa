@@ -1,0 +1,15 @@
+{
+  "appname" :"myapp",
+  "version" : "0.1",
+  "authors" : [
+    "Anggito Wibisono Sulistyo Putro"
+  ],
+  "config" : {
+    "databases" : {
+      "mongo" : {
+        "name" : "mongo",
+        "server" : "localhost:27017"
+      }
+    }
+  }
+}
